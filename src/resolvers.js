@@ -1,4 +1,4 @@
-//Faz a comunicação com graphQL
+//Faz a comunicação com graphQL.
 
 //importa schema mongodb
 const User = require('./User')
