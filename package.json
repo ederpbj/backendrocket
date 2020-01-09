@@ -1,0 +1,8 @@
+{
+  "name": "backendrocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ederpbj/backendrocket.git",
+  "author": "ederpbj <ederpbj@yahoo.com.br>",
+  "license": "MIT"
+}
